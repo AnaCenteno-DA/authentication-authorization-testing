@@ -41,3 +41,39 @@ authentication-authorization-testing/
 ├── playwright.config.ts
 ├── package.json
 └── README.md
+```
+## Running the Tests
+
+Install dependencies:
+
+```bash
+npm install
+
+npx playwright test
+
+npx playwright test --headed
+
+##Test Results
+All the four(4) automated tests are passing:
+4 passed
+
+### Screenshot 1 — Test execution ⭐
+Commnad:
+npx playwright test
+
+<img width="709" height="285" alt="image" src="https://github.com/user-attachments/assets/636c47cc-9f39-47f5-b2d3-33ba0784a4cc" />
+
+### Screenshot 2 — Playwright HTML Report
+Commnad:
+npx playwright show-report
+
+<img width="907" height="529" alt="image" src="https://github.com/user-attachments/assets/6d0f2b19-bac9-4e36-a6eb-979e52a30787" />
+
+
+### Screenshot 3 — GitHub Actions
+Flow: 
+Code → GitHub → CI → Playwright → Tests passed
+
+<img width="932" height="388" alt="image" src="https://github.com/user-attachments/assets/a7727384-d736-4188-93d9-0d8d032c320e" />
+
+
