@@ -48,14 +48,18 @@ Install dependencies:
 
 ```bash
 npm install
-
+```
+```
 npx playwright test
-
+```
+```
 npx playwright test --headed
+```
 
-##Test Results
+### Test Results
 All the four(4) automated tests are passing:
 4 passed
+
 
 ### Screenshot 1 — Test execution ⭐
 Commnad:
@@ -66,6 +70,7 @@ npx playwright test
 ### Screenshot 2 — Playwright HTML Report
 Commnad:
 npx playwright show-report
+
 
 <img width="907" height="529" alt="image" src="https://github.com/user-attachments/assets/6d0f2b19-bac9-4e36-a6eb-979e52a30787" />
 
