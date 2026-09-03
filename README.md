@@ -57,6 +57,7 @@ Steps done.
 All the four(4) automated tests are passing:
 4 passed
 
+
 The following screenshots demonstrate the project testing process, including Playwright test execution, the generated HTML test report, and the GitHub Actions workflow with a successful test report upload.
 
 ### Screenshot 1 — Test execution 
