@@ -25,23 +25,9 @@ The automation suite covers:
 
 ## Project Structure
 
-```text
-authentication-authorization-testing/
-│
-├── pages/
-│   └── LoginPage.ts
-│
-├── tests/
-│   └── authentication.spec.ts
-│
-├── .github/
-│   └── workflows/
-│       └── playwright.yml
-│
-├── playwright.config.ts
-├── package.json
-└── README.md
-```
+<img width="546" height="271" alt="image" src="https://github.com/user-attachments/assets/5b31d4d9-de42-4666-b16d-e33219a261b1" />
+
+
 ## Running the Tests
 
 Install dependencies:
